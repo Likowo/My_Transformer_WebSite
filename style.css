@@ -1,0 +1,6 @@
+.headerCont{
+    border: solid maroon;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
