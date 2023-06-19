@@ -21,3 +21,11 @@ let myJam = {
        type: "Enchanting and blissful"
     }
 }
+
+
+//================================================
+// let headerContainer = document.querySelector('.headerCont')
+// console.log(headerContainer)
+
+let genre = document.querySelector(.genres)
+let gospel = document.querySelector(.gospel)
