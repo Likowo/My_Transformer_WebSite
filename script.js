@@ -27,5 +27,16 @@ let myJam = {
 // let headerContainer = document.querySelector('.headerCont')
 // console.log(headerContainer)
 
-let genre = document.querySelector(.genres)
-let gospel = document.querySelector(.gospel)
+let genre = document.querySelectorAll('.genres')
+const jam = () => {
+   let newJam = document.createElement()
+}
+
+
+let textContainer = document.querySelector('.textContainer')
+// let createPara = document.createElement('p')
+  const addText = () => {
+   textContainer.innerHTML = " Thank you for stopping by. Hope you enjoyed the show."
+  }
+//   magentaBox.append(createPara)
+

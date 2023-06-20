@@ -29,3 +29,15 @@
     height: 220px;
     width: 100%;
 }
+
+.textContainer{
+    border: solid 3px magenta;
+    height: 50px;
+    width: 100%;
+}
+
+/* .newText{
+    border: solid 3px red;
+    height: 220px;
+    width: 100%;
+} */
